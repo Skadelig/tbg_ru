@@ -384,7 +384,7 @@
 	$strings['Changing your password'] = 'Changing your password';
 	$strings['Charset'] = 'Кодировка';
 	$strings['Check availability'] = 'Проверка доступности';
-	$strings['%check_availability% or %cancel%'] = '%check_availability% or %cancel%';
+	$strings['%check_availability% or %cancel%'] = '%check_availability% или %cancel%';
 	$strings['Checkbox choices'] = 'Checkbox choices';
 	$strings['Check for the latest updates'] = 'Check for the latest updates';
 	$strings['Check for updates now'] = 'Check for updates now';
