@@ -59,7 +59,7 @@
 	$strings['Add login from another provider'] = 'Добавить логин от другого провайдера';
 	$strings['Add more information to your issue'] = 'Добавить дополнительную информацию о Вашем запросе';
 	$strings['Add new account'] = 'Добавить новый аккаунт';
-	$strings['Добавить новое персональное поле'] = 'Add new custom field';
+	$strings['Add new custom field'] = 'Добавить новое персональное поле';
 	$strings['Add new edition release'] = 'Добавить релиз нового выпуска';
 	$strings['Add new milestone'] = 'Добавить новый этап';
 	$strings['Add new project release'] = 'Добавить новый релиз проекта';
